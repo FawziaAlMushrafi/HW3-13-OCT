@@ -1,7 +1,7 @@
 //Unit = If a function does not return a useful value
 // its return type is Unit. Unit is a type with only one value
 
-fun main() :Unit {
+fun main():Unit {
     val min: Int = getmin(num1 = 8, num2 = 4)
     println(min)
 }
